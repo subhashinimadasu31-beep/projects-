@@ -6,4 +6,4 @@ turtle.title("welcome to turtle lib")
 a = turtle.Turtle()
 for i in range (4):
     a.forward(100)
-    a.left(20)
+    a.left(90)
